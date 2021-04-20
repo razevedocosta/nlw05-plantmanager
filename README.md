@@ -11,6 +11,8 @@
   <a href="#a-desenvolver">A desenvolver</a>
 </p>
 
+![](https://github.com/razevedocosta/nlw05-plantmanager/blob/main/assets/preview.png)
+
 **Link figma:** https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate?node-id=0%3A1
 
 ## Pré-requisitos
