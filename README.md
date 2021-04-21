@@ -29,5 +29,9 @@
 ## Atividades realizadas por dia
 dia 1
 - instalação de dependências (nodejs, expo-cli, typescript)
-- criação da tela inicial (screen) para carregamento do aplicativo
 - criação e estilização do primeiro componente button
+
+dia 2
+- criação da tela inicial (screen) para pré-carregamento
+- componente button e utilização de SASS
+- criação de páginas e navegação entre rotas
