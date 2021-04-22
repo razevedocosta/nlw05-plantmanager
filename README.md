@@ -35,3 +35,8 @@ dia 2
 - criação da tela inicial (screen) para pré-carregamento
 - componente button e utilização de SASS
 - criação de páginas e navegação entre rotas
+
+dia 3 
+- criação ta tela para selecionar planta e filtro
+- consumindo dados de api
+- uso de animações para melhorar a experiência do usuário
