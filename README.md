@@ -40,3 +40,8 @@ dia 3
 - criação ta tela para selecionar planta e filtro
 - consumindo dados de api
 - uso de animações para melhorar a experiência do usuário
+
+dia 4
+- validação de campos e passagem de parâmetros
+- armazenamento com Async Storage
+- cadastro de plantas, refatoração de telas e interfaces
