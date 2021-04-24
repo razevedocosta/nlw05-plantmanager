@@ -15,8 +15,6 @@
 
 **Link figma:** https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate?node-id=0%3A1
 
-## Pré-requisitos
-
 ## 🚀 Como executar
 - fazer um clone do projeto para o seu computador
 - no diretório raiz, executar **expo start** para iniciar a aplicação
@@ -45,3 +43,8 @@ dia 4
 - validação de campos e passagem de parâmetros
 - armazenamento com Async Storage
 - cadastro de plantas, refatoração de telas e interfaces
+
+dia 5
+- refatoração de código
+- exclusão de plantas com efeito swipe, remoção do Storage
+- agendamento de notificação, api e recebimento
