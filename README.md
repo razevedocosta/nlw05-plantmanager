@@ -16,13 +16,20 @@
 **Link figma:** https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate?node-id=0%3A1
 
 ## 🚀 Como executar
-- fazer um clone do projeto para o seu computador
-- no diretório raiz, executar **expo start** para iniciar a aplicação
-- ou **yarn android | ios** para rodar a aplicação usando emulador
+• fazer um clone do projeto para o seu computador
+• no diretório raiz, executar **expo start** para iniciar a aplicação
+• ou **yarn android | ios** para rodar a aplicação usando emulador
 
 ## 💬 Funcionalidades
+• listagem de plantas
+• adição e remoção de planta monitorada
+• definição de alarmes para lembretes
+• recebimento de alertas
 
 ## 🔧 A desenvolver
+• compartilhar ações de cuidado nas redes sociais
+• pontuação por regas feitas nas plantas
+• adição de plantas na listagem pelo usuário
 
 ## Atividades realizadas por dia
 dia 1
